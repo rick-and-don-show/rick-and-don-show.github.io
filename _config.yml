@@ -1,4 +1,4 @@
 theme: jekyll-theme-tactile
 title: The Rick and Don Show
 
-show_downloads: false
+show_downloads: "false"

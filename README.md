@@ -1,1 +1,1 @@
-![The Rick & Don Show logo](media/logo-take1.png)
+[![The Rick & Don Show logo](media/logo-take1.png)](https://soundcloud.com/rick-and-don)
