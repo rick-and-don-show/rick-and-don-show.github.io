@@ -22,9 +22,9 @@
         </header>
 
         <section id="downloads" class="clearfix">
-          <a href="{{ site.facebook_url }}" id="follow-on-facebook" class="button"><img src="/media/FB-f-Logo__blue_50.png" /></a>
-          <a href="{{ site.twitter_url }}" id="follow-on-twitter" class="button"><img src="/media/Twitter_Logo_White_On_Blue.png" style="width: 48px; height: 48px;" /></a>
-          <a href="{{ site.soundcloud_url }}" id="listen-on-soundcloud" class="button"><iframe allowtransparency="true" scrolling="no" frameborder="no" src="https://w.soundcloud.com/icon/?url=http%3A%2F%2Fsoundcloud.com%2Frick-and-don&color=orange_white&size=48" style="width: 48px; height: 48px;"></iframe></a>
+          <a href="{{ site.facebook_url }}" id="follow-on-facebook" target="_blank"><img src="{{ '/media/FB-f-Logo__blue_50.png' | relative_url }}" /></a>
+          <a href="{{ site.twitter_url }}" id="follow-on-twitter" target="_blank"><img src="{{ '/media/Twitter_Logo_White_On_Blue.png' | relative_url }}" style="width: 48px; height: 48px;" /></a>
+          <a href="{{ site.soundcloud_url }}" id="listen-on-soundcloud" target="_blank"><iframe allowtransparency="true" scrolling="no" frameborder="no" src="https://w.soundcloud.com/icon/?url=http%3A%2F%2Fsoundcloud.com%2Frick-and-don&color=orange_white&size=48" style="width: 48px; height: 48px;"></iframe></a>
           {% if site.show_downloads %}
           {% endif %}
         </section>
