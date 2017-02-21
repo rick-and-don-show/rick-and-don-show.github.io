@@ -21,13 +21,13 @@
           <h2>{{ site.description | default: site.github.project_tagline }}</h2>
         </header>
 
-        {% if site.show_downloads %}
         <section id="downloads" class="clearfix">
-          <a href="{{ site.github.zip_url }}" id="download-zip" class="button"><span>Download .zip</span></a>
-          <a href="{{ site.github.tar_url }}" id="download-tar-gz" class="button"><span>Download .tar.gz</span></a>
-          <a href="{{ site.github.repository_url }}" id="view-on-github" class="button"><span>View on GitHub</span></a>
+          <a href="{{ site.facebook_url }}" id="follow-on-facebook" class="button"><img src="/media/FB-f-Logo__blue_50.png" /></a>
+          <a href="{{ site.twitter_url }}" id="follow-on-twitter" class="button"><img src="/media/Twitter_Logo_White_On_Blue.png" style="width: 48px; height: 48px;" /></a>
+          <a href="{{ site.soundcloud_url }}" id="listen-on-soundcloud" class="button"><iframe allowtransparency="true" scrolling="no" frameborder="no" src="https://w.soundcloud.com/icon/?url=http%3A%2F%2Fsoundcloud.com%2Frick-and-don&color=orange_white&size=48" style="width: 48px; height: 48px;"></iframe></a>
+          {% if site.show_downloads %}
+          {% endif %}
         </section>
-        {% endif %}
 
         <hr>
 
