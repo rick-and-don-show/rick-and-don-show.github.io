@@ -24,7 +24,7 @@ footer-links:
   email:
   facebook: RickandDonShow
   flickr:
-  github: 
+  github:
   instagram:
   linkedin:
   pinterest:
@@ -33,7 +33,7 @@ footer-links:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
-  soundcloud: https://soundcloud.com/rick-and-don
+  soundcloud: rick-and-don
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
