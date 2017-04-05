@@ -1,0 +1,4 @@
+---
+slug: oscars
+name: Oscars
+---

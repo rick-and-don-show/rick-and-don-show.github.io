@@ -1,0 +1,4 @@
+---
+slug: nintendo
+name: Nintendo
+---
