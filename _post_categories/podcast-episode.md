@@ -1,6 +1,6 @@
 ---
 slug: podcast-episode
 name: Podcast Episodes
-background-color: '#E37222'
-text-color: black
+background-color: inherit
+text-color: '#E37222'
 ---

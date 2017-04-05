@@ -22,9 +22,6 @@ layout: default
 
   <!-- TODO Update classes & formatting -->
   {% assign category = site.post_categories | where: "slug", post.category %}
-
-  
-
   {% assign category = category[0] %}
   {% if category %}
     {% capture category_content %}<a class="label" href="{{ category.url }}" style="color:{{ category.text-color }}; background-color:{{ category.background-color }};">{{ category.name }}</a>{% endcapture %}
