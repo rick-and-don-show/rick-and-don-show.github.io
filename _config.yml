@@ -53,6 +53,28 @@ url: http://rickanddon.com
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
 
+collections:
+  post_categories:
+    output: true
+    permalink: /category/:name/
+  post_tags:
+    output: true
+    permalink: /tag/:name/
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: post_categories
+    values:
+      layout: posts_by_category
+  -
+    scope:
+      path: ""
+      type: post_tags
+    values:
+      layout: posts_by_tag
+
 #
 # !! You don't need to change any of the configuration flags below !!
 #
