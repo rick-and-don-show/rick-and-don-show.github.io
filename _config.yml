@@ -33,6 +33,7 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
   soundcloud: rick-and-don
+  itunes: the-rick-don-show/id1229942938 #https://itunes.apple.com/us/podcast/
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
