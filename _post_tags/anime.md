@@ -1,0 +1,4 @@
+---
+slug: anime
+name: Anime
+---
