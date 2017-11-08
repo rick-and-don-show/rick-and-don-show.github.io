@@ -1,0 +1,4 @@
+---
+slug: hospital
+name: Hospital
+---
