@@ -3,7 +3,7 @@ layout: post
 title: Blogging Begins
 category: blog-post
 tags: [ sample, intro ]
-published: true
+published: false
 ---
 
 This is a test blog post.  Lorem ipsum....
