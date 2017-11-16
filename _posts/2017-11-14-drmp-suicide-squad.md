@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Don Reviews Movies Poorly - Suicide Squad
+title: Donald Reviews Movies Poorly - Suicide Squad
 category: blog-post
-tags: [ don-reviews-movies-poorly, suicide-squad ]
+tags: [ donald-reviews-movies-poorly, suicide-squad ]
 ---
 
 Presidential candidate, Will Conway, leads a group of reluctant heroes to fix the mistakes of Viola Davis.  Conway's Frank Underwood impression fails to rally his team the first couple times he performs it, but once Will Smith realizes that Conway, who is first introduced with a giant flag on his head, is prone to dying, he begrudgingly acknowledges that they will have to use teamwork to stay alive.
