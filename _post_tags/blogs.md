@@ -1,0 +1,4 @@
+---
+slug: blogs
+name: Blogs
+---
