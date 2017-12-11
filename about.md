@@ -13,7 +13,7 @@ The Rick and Don Show can be found on [SoundCloud](https://soundcloud.com/rick-a
 
 ## Donald
 
-Donald has spent most of his life studying art.  He holds an Undergraduate degree in Theatre and Masters of Fine Art in Creative Writing. His work has appeared in online and print in over 13 different literary journals. He spends his free time being...
+Donald has spent most of his life studying art.  He holds an Undergraduate degree in Theatre and Masters of Fine Art in Creative Writing. His work has appeared in online and print in over 13 different literary journals.  He spends free time being a goof ball, creating content, and making people shoot milk out of their noses.  He is currently listed in the Directory of Poets & Writers @ (https://www.pw.org/content/donald_paris).
 
 
 ## Rick
