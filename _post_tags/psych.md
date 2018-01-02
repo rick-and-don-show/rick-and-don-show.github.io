@@ -1,0 +1,4 @@
+---
+slug: psych
+name: Psych
+---
