@@ -1,0 +1,4 @@
+---
+slug: arcade
+name: Arcade
+---
