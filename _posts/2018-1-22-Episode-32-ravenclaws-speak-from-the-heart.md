@@ -12,7 +12,7 @@ Remember to subscribe & leave us a review on [iTunes](https://itunes.apple.com/u
 
 ### Recommendations & Mentions:
 - [The Original Raleigh Snowmageddon](https://www.reddit.com/r/pics/comments/5mdamy/never_forget_how_raleigh_nc_handled_25_of_snow/) - via Reddit
-- [Heart Camp with Jamie Tworkowski](https://heartcampwithjamie.com
+- [Heart Camp with Jamie Tworkowski](https://heartcampwithjamie.com) - Register for February session now!
 - Heart Camp recommendations:
   - [Your Heart Is Welcome Here](http://ashtonvray.com/the-blog/2018/1/20/heart-camp) - via ashtonvray.com
   - [Heart Camp - First Thoughts](https://wegeekgirls.com/2018/01/17/heart-camp-first-thoughts/) - via wegeekgirls.com
