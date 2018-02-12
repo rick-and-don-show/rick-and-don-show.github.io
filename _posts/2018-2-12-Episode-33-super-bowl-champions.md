@@ -10,7 +10,7 @@ Rick reports in from The Upside-Down on the Philadelphia Eagles winning Super Bo
 
 Closing out the episode, Rick and Don cover one of the top-five all-time Royal Rumble pay-per-views, including both a Men's and Women's Royal Rumble match.  Setting up plenty of storylines for 2018, this event had more than its share of surprises, shocks, and hi-points.
 
-Finally, some additional blog series by Donald are live on our site, such as Game of the Year Reviews and Donald Reviews Movies Poorly.  Be sure to check out rickanddon.com for more details!
+Finally, some additional blog series by Donald are live on our site, such as Game of the Year Reviews and Donald Reviews Movies Poorly.  Be sure to check out [rickanddon.com](http://rickanddon.com/tag/donald-reviews-movies-poorly/) for more details!
 
 Remember to subscribe & leave us a review on [iTunes](https://itunes.apple.com/us/podcast/the-rick-don-show/id1229942938)!
 
