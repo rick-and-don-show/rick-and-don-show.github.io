@@ -4,7 +4,6 @@ title: Donald Reviews Movies Poorly - Miss Peregrine's Home for Peculiar Childre
 category: blog-post
 tags: [ donald-reviews-movies-poorly, movies ]
 date: 2018-2-8 06:16:00 -0500
-published: false
 ---
 
 Miss Peregrine's Home for Peculiar Children is what I can only assume to be a biographical picture, based on Samuel L. Jackson's quest to eat the eyeballs of children. Mrs. Flamingo's House for Weird Looking Kids focuses on our main hero, Jake, who constantly obsesses over the stories that his grandfather tells him. Jake's grandfather, Abe, is found eyeless in the middle of a forest. I think in like Wisconsin or something. That seems like the type of thing to happen in Wisconsin, since all they have is cheese and the Packers.
