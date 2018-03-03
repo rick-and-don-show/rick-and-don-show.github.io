@@ -4,7 +4,6 @@ title: Game of the Year 2017 Review - Persona 5
 category: blog-post
 tags: [ game-of-the-year, video-games, persona5 ]
 date: 2018-2-15 06:16:00 -0500
-published: false
 ---
 
 It was about 3pm on a Saturday, in the middle of a record hot summer, when I decided to play Persona 5. Recently unemployed and beaten down by the scorching heat, I was unsure what to do with the seemingly ever-growing amount of free time ahead of me, I needed to find something to do. I found myself staring at my game collection, much like one stares into a refrigerator when bored, realizing that not one of those 1000 games I own would save me from the anxiousness caused by unemployment that was slowly consuming me. I had heard good things about Persona 5 from every video game podcast I listened to, so I decided to tackle it. The one good thing about losing your job is that you find yourself schedule-free and without the need to report to anyone, your 9 to 5 time frame becomes free, and you start to experience the part of the world that you had been missing because you were stuck in a cubicle, slowly banging your head against thumbtacks wondering what you’re going to do with your life. In a way, my new found freedom mimicked the main story in Persona 5.
