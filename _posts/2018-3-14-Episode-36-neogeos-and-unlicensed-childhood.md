@@ -10,6 +10,8 @@ After spending a week with his very own NeoGeo cabinet, Don catches us up on the
 
 Remember to subscribe & leave us a review on [iTunes](https://itunes.apple.com/us/podcast/the-rick-don-show/id1229942938)!
 
+<!--more-->
+
 ### Recommendations & Mentions:
 - [King of the Monsters](https://en.wikipedia.org/wiki/King_of_the_Monsters)
 - [Maxi15 Cart](http://www.mobygames.com/game/maxi-15-) via Moby Games
