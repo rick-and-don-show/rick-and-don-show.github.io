@@ -10,6 +10,8 @@ Our hosts circle back on their first annual event, the Magic The Gathering Moder
 
 Remember to subscribe & leave us a review on [iTunes](https://itunes.apple.com/us/podcast/the-rick-don-show/id1229942938)!
 
+<!--more-->
+
 ### Recommendations & Mentions:
 - [Rick & Don's Modern Masters 17 Speculation Spreadsheet](https://docs.google.com/spreadsheets/d/1dvW04_qHqUWG8EXHOZosAG9OjYgYs7Qhz7ahCj3r8Cs/edit?usp=sharing)
 - [David Lynch Teaches Typing](https://rhinostew.itch.io/david-lynch-teaches-typing)
