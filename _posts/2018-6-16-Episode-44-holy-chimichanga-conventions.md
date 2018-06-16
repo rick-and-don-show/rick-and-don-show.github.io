@@ -13,4 +13,4 @@ Remember to subscribe & leave us a review on [iTunes](https://itunes.apple.com/u
 <!--more-->
 
 ### Recommendations & Mentions:
-- [Animaement](https://animazement.com/)
+- [Animazement](https://animazement.com/)
