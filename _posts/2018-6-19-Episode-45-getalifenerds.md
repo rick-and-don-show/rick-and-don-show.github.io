@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Episode 45 - \#GetALifeNerds!!!
+title: Episode 45 - #GetALifeNerds!!!
 category: podcast-episode
 tags: [ movies, star-wars, community ]
 track_id: 460499331
