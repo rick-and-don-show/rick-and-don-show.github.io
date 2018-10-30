@@ -1,0 +1,4 @@
+---
+slug: collectibles
+name: Collectibles
+---
